@@ -1,0 +1,3 @@
+{
+  setTerm(event.target.value);
+}
